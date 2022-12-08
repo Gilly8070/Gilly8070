@@ -1,12 +1,12 @@
 
 <h1 align="left" id="gulrez-title">:wave: Hello there! I'm Gulrez</h1>
-<h3 align="left">Currently Frontend Intern at Lineupx </h3>
+<h3 align="left">Currently Frontend Developer at Lineupx </h3>
 
 
 <a href="#gulrez-title">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gilly8070&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Gulrez Shaikh" align="right" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gilly8070&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Gulrez Shaikh" align="right" />
 </a>
-
+F
 - :office: &nbsp;I'm currently working at **Lineupx**
 - :speech_balloon: &nbsp;I like to talk about **React**, **JavaScript** and **Nodejs**   
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
@@ -115,7 +115,7 @@
 [twitter]: https://twitter.com/arb5z "Twitter"
 
 
-[![Gulrez's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gilly8070&theme=react-dark)](https://github.com/Gilly8070)
+[![Gulrez's github activity graph](https://activity-graph.herokuapp.com/graph?username=gilly8070&theme=react-dark)](https://github.com/gilly8070)
 
 
 
