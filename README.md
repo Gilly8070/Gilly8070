@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left" id="Gulrez-title">:wave: Hello there! I'm Aryan</h1>
 <h3 align="left">Currently Building at Lineupx </h3>
 
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=aryanat1911&color=brightgreen">  
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=gilly8070&color=brightgreen">  
 <a href="#Gulrez-title">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gilly8070&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Gulrez" align="right" />
 </a>
