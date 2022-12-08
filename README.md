@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="left" id="Gulrez-title">:wave: Hello there! I'm Aryan</h1>
+<h1 align="left" id="Gulrez-title">:wave: Hello there! I'm Gulrez</h1>
 <h3 align="left">Currently Building at Lineupx </h3>
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=gilly8070&color=brightgreen">  
@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 [linkedin]: https://www.linkedin.com/in/aryan-khan-aaba6721a/ "LinkedIn"
 [twitter]: https://twitter.com/AryanKh77599846 "Twitter"
-[![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=gilly8070&theme=react-dark)](https://github.com/gilly8070)
+[![Gulrez's github activity graph](https://activity-graph.herokuapp.com/graph?username=gilly8070&theme=react-dark)](https://github.com/gilly8070)
