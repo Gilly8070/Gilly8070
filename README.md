@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 - :speech_balloon: &nbsp;I like to talk about **React**, **React Native** , **JavaScript**, **Nodejs** ,**AI/ML**, **AWS** and **DevOps**
-
+<br />
 <h2 align="left" id="Gulrez-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
